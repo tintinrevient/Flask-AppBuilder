@@ -33,8 +33,8 @@ python run.py
 ## Authentication
 
 <p float="left">
-  <img src="./session_based_auth.jpg" width=550 />
-  <img src="./token_based_auth.jpg" width=550 />
+  <img src="./session_based_auth.jpg" width=520 />
+  <img src="./token_based_auth.jpg" width=520 />
 </p>
 
 ## References
