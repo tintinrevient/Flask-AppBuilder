@@ -30,6 +30,13 @@ sqlite> select * from ab_user;
 python run.py
 ```
 
+## Authentication
+
+<p float="left">
+  <img src="./session_based_auth.jpg" width=400 />
+  <img src="./token_based_auth.jpg" width=400 />
+</p>
+
 ## References
 * https://flask.palletsprojects.com/en/2.0.x/cli/
 * https://cryptography.io/en/latest/fernet/
