@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. Use the default skeleton application:
+1. Use the default skeleton application, i.e., `run:app`:
 ```bash
 export FLASK_APP=app
 ```
@@ -29,3 +29,6 @@ sqlite> select * from ab_user;
 ```bash
 python run.py
 ```
+
+## References
+* https://flask.palletsprojects.com/en/2.0.x/cli/
