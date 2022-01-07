@@ -41,5 +41,6 @@ python run.py
 * https://flask.palletsprojects.com/en/2.0.x/cli/
 * https://cryptography.io/en/latest/fernet/
 * https://devconnected.com/how-to-search-ldap-using-ldapsearch-examples/
+* https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/
 * https://www.ssl2buy.com/wiki/ssl-vs-tls
 * https://hackernoon.com/using-session-cookies-vs-jwt-for-authentication-sd2v3vci
