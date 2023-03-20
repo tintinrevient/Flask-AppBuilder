@@ -37,6 +37,12 @@ python run.py
   <img src="./token_based_auth.jpg" width=500 />
 </p>
 
+## Benchmarking Webapps
+
+<p float="left">
+  <img src="./python-webapp-benchmarking.png" width=700 />
+</p>
+
 ## References
 * https://flask.palletsprojects.com/en/2.0.x/cli/
 * https://cryptography.io/en/latest/fernet/
