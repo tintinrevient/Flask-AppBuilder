@@ -43,6 +43,8 @@ python run.py
   <img src="./python-webapp-benchmarking.png" width=700 />
 </p>
 
+More information can be found [here](https://github.com/tintinrevient/duckdb-example).
+
 ## References
 * https://flask.palletsprojects.com/en/2.0.x/cli/
 * https://cryptography.io/en/latest/fernet/
